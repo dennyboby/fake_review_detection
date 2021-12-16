@@ -152,7 +152,7 @@ With lower batch sizes, better are the accuracy results and lower are the test l
 The accuracy of BGAN-BERT is better than that of the GAN-BERT performs better. Reason: better learning parameters.
 
 
---***--
+---***---
 
 
 
