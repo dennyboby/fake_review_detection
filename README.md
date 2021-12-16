@@ -1,2 +1,1 @@
-# fake_review_detection
-Fake review detection using bayesian GAN
+# Fake review detection using GAN-BERT
