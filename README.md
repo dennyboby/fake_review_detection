@@ -108,7 +108,7 @@ Probabilities are based on a degree of belief in an event. It gets Updated as ne
 
 # MARKOV CHAIN MONTE CARLO
 
-# What is it?:
+### What is it?:
 
 It is a class of algorithms used to sample from probability distributions
 
@@ -121,7 +121,7 @@ Here, we learn an unknown distribution.
 We construct a set of samples and search over a range of possible outcomes.
 
 
-# Working:
+### Working:
 
 Define domain of possible inputs and generate random samples.
 
